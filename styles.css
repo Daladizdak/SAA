@@ -88,12 +88,12 @@ main {
 .delivery-options {
     display: flex;
     justify-content: center;
-    gap: 45px;
+    gap: 15px;
     margin: 20px 0;
 }
 
 .delivery-options img {
-    width: 45%;
+    width: 50%;
     border-radius: 8px;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
 }
